@@ -27,20 +27,20 @@
     {
       "dropdown": "Getting Started",
       "icon": "play",
-"groups": [
-  {
-    "group": "Getting Started",
+      "groups": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "get-started/cloud-virtual-server"
+      ]
+    },
+    {
+    "group": "Sample Group",
     "pages": [
       "get-started/cloud-virtual-server"
+      ]
+    }
     ]
-  },
-  {
-    "group": "Getting Started 2",
-    "pages": [
-      "get-started/cloud-virtual-server"
-    ]
-  }
-]
     },
     {
       "dropdown": "Accounts",
