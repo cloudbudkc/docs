@@ -25,16 +25,18 @@
     },
     "dropdowns": [
       {
+        "dropdown": "Getting Started",
+        "icon": "play",
+        "pages": [],
+        "dropdown": "Accounts",
+        "icon": "key",
+        "pages": [],
+        "dropdown": "Billing",
+        "icon": "file-invoice-dollar",
+        "pages": [],
         "dropdown": "Policies",
         "icon": "folder",
-        "pages": [
-          "policies/tos",
-          "policies/aup",
-          "policies/sla",
-          "policies/anti-spam",
-          "policies/refund",
-          "policies/privacy"
-            ]
+        "pages": ["policies/tos", "policies/aup", "policies/sla", "policies/anti-spam", "policies/refund", "policies/privacy"]
           }
         ]
       },
