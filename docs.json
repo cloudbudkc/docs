@@ -8,38 +8,57 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-      "global": {
-      "anchors": [
-        {
-          "anchor": "Homepage",
-          "href": "https://www.cloudbud.com",
-          "icon": "house"
-        },
-        {
-          "anchor": "Network Status",
-          "href": "https://status.cloudbud.com/",
-          "icon": "signal"
-        }
+"navigation": {
+  "global": {
+    "anchors": [
+      {
+        "anchor": "Homepage",
+        "href": "https://www.cloudbud.com",
+        "icon": "house"
+      },
+      {
+        "anchor": "Network Status",
+        "href": "https://status.cloudbud.com/",
+        "icon": "signal"
+      }
+    ]
+  },
+  "dropdowns": [
+    {
+      "dropdown": "Getting Started",
+      "icon": "play",
+      "pages": [
+        "get-started/cloud-virtual-server"
       ]
     },
-    "dropdowns": [
-      {
-        "dropdown": "Getting Started",
-        "icon": "play",
-        "pages": ["get-started/cloud-virtual-server"],
-        "dropdown": "Accounts",
-        "icon": "key",
-        "pages": ["accounts/enable-2fa"],
-        "dropdown": "Billing",
-        "icon": "file-invoice-dollar",
-        "pages": ["billing/paying-invoice"],
-        "dropdown": "Policies",
-        "icon": "folder",
-        "pages": ["policies/tos", "policies/aup", "policies/sla", "policies/anti-spam", "policies/refund", "policies/privacy"]
-          }
-        ]
-      },
+    {
+      "dropdown": "Accounts",
+      "icon": "key",
+      "pages": [
+        "accounts/enable-2fa"
+      ]
+    },
+    {
+      "dropdown": "Billing",
+      "icon": "file-invoice-dollar",
+      "pages": [
+        "billing/paying-invoice"
+      ]
+    },
+    {
+      "dropdown": "Policies",
+      "icon": "folder",
+      "pages": [
+        "policies/tos",
+        "policies/aup",
+        "policies/sla",
+        "policies/anti-spam",
+        "policies/refund",
+        "policies/privacy"
+      ]
+    }
+  ]
+},
   "logo": {
     "light": "/logo/cloudbud-color.svg",
     "dark": "/logo/cloudbud-color.svg"
