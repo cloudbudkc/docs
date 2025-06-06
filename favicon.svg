@@ -1,19 +1,29 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9.06145 23.1079C5.26816 22.3769 -3.39077 20.6274 1.4173 5.06384C9.6344 6.09939 16.9728 14.0644 9.06145 23.1079Z" fill="url(#paint0_linear_17557_2021)"/>
-<path d="M8.91928 23.0939C5.27642 21.2223 0.78371 4.20891 17.0071 0C20.7569 7.19341 19.6212 16.5452 8.91928 23.0939Z" fill="url(#paint1_linear_17557_2021)"/>
-<path d="M8.91388 23.0788C8.73534 19.8817 10.1585 9.08525 23.5699 13.1107C23.1812 20.1229 18.984 26.4182 8.91388 23.0788Z" fill="url(#paint2_linear_17557_2021)"/>
-<defs>
-<linearGradient id="paint0_linear_17557_2021" x1="3.77557" y1="5.91571" x2="5.23185" y2="21.5589" gradientUnits="userSpaceOnUse">
-<stop stop-color="#18E299"/>
-<stop offset="1" stop-color="#15803D"/>
-</linearGradient>
-<linearGradient id="paint1_linear_17557_2021" x1="12.1711" y1="-0.718425" x2="10.1897" y2="22.9832" gradientUnits="userSpaceOnUse">
-<stop stop-color="#16A34A"/>
-<stop offset="1" stop-color="#4ADE80"/>
-</linearGradient>
-<linearGradient id="paint2_linear_17557_2021" x1="23.1327" y1="15.353" x2="9.33841" y2="18.5196" gradientUnits="userSpaceOnUse">
-<stop stop-color="#4ADE80"/>
-<stop offset="1" stop-color="#0D9373"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox=".27666 .2547468 96.72334 69.74525" width="96.72334" height="69.74525">
+  <defs/>
+  <g id="Canvas_3" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1" fill="none">
+    <title>Canvas 3</title>
+    <g id="Canvas_3_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <title>Canvas_2</title>
+        <g id="Group_3">
+          <title>Canvas_2_Layer_1</title>
+          <g id="Group_6">
+            <title>Graphic_5</title>
+            <g id="Graphic_7">
+              <path d="M .27666 70 C 23.97636 37.71322 65.86169 22.26225 97 36.9162 C 94.55601 29.61335 89.21186 24.26223 80.26666 21.33425 C 79.98992 20.81749 80.80966 20.18325 81.63472 19.54505 C 82.06631 19.21125 83.21426 18.5643 82.57869 17.71265 C 76.2193 9.19015 68.80301 6.98469 60.65556 9.15065 C 44.5666 -2.35711 26.41959 -2.21632 6.70706 6.78848 C 17.94266 18.43145 32.7958 22.57751 50.24976 21.33425 C 24.6157 28.80335 7.75241 46.57325 .27666 70 Z" fill="#2196f3"/>
+            </g>
+          </g>
+          <g id="Group_4">
+            <title>Graphic_4</title>
+            <g id="Graphic_5">
+              <ellipse cx="15.24172" cy="31.58151" rx="5.45458995147622" ry="5.76371157962877" fill="#2196f3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
