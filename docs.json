@@ -27,13 +27,13 @@
       {
         "dropdown": "Getting Started",
         "icon": "play",
-        "pages": [],
+        "pages": ["get-started/cloud-virtual-server"],
         "dropdown": "Accounts",
         "icon": "key",
-        "pages": [],
+        "pages": ["accounts/enable-2fa"],
         "dropdown": "Billing",
         "icon": "file-invoice-dollar",
-        "pages": [],
+        "pages": ["billing/paying-invoice"],
         "dropdown": "Policies",
         "icon": "folder",
         "pages": ["policies/tos", "policies/aup", "policies/sla", "policies/anti-spam", "policies/refund", "policies/privacy"]
