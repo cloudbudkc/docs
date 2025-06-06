@@ -9,52 +9,20 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+        "dropdown": "Policies",
+        "pages": [
+          "policies/tos",
+          "policies/aup",
+          "policies/sla",
+          "policies/anti-spam",
+          "policies/refund",
+          "policies/privacy"
             ]
           }
         ]
       },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
     "global": {
       "anchors": [
         {
@@ -68,8 +36,7 @@
           "icon": "signal"
         }
       ]
-    }
-  },
+    },
   "logo": {
     "light": "/logo/cloudbud-color.svg",
     "dark": "/logo/cloudbud-color.svg"
