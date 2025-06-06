@@ -9,6 +9,20 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+      "global": {
+      "anchors": [
+        {
+          "anchor": "Homepage",
+          "href": "https://www.cloudbud.com",
+          "icon": "house"
+        },
+        {
+          "anchor": "Network Status",
+          "href": "https://mintlify.com/community",
+          "icon": "signal"
+        }
+      ]
+    },
     "dropdowns": [
       {
         "dropdown": "Policies",
@@ -24,20 +38,6 @@
           }
         ]
       },
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Homepage",
-          "href": "https://www.cloudbud.com",
-          "icon": "house"
-        },
-        {
-          "anchor": "Network Status",
-          "href": "https://mintlify.com/community",
-          "icon": "signal"
-        }
-      ]
-    },
   "logo": {
     "light": "/logo/cloudbud-color.svg",
     "dark": "/logo/cloudbud-color.svg"
