@@ -12,6 +12,7 @@
     "dropdowns": [
       {
         "dropdown": "Policies",
+        "icon": "folder",
         "pages": [
           "policies/tos",
           "policies/aup",
